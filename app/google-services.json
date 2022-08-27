@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712568372383",
+    "project_id": "fir-sms-auth-63cd6",
+    "storage_bucket": "fir-sms-auth-63cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712568372383:android:d79abab6b50b836e7636aa",
+        "android_client_info": {
+          "package_name": "jama.movieapp.sms_authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712568372383-941mjvj6q75gdel499nmd109h5e2m8q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jama.movieapp.sms_authfirebase",
+            "certificate_hash": "26cfcc311de037629256d804c1419df075afdb46"
+          }
+        },
+        {
+          "client_id": "712568372383-visug69rhnejpalj6irq5l4dnst8r17f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvD3cHOEaqc0rjNHkePJ6HffMuaK3gDTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712568372383-visug69rhnejpalj6irq5l4dnst8r17f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
