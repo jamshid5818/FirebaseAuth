@@ -13,7 +13,7 @@ import com.google.firebase.auth.*
 import jama.movieapp.sms_authfirebase.databinding.ActivityMainBinding
 import java.util.concurrent.TimeUnit
 
-class MainActivity : AppCompatActivity() {
+class PhoneActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
     lateinit var auth: FirebaseAuth
     lateinit var storedVerificationId: String

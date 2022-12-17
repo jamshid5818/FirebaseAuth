@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "712568372383-941mjvj6q75gdel499nmd109h5e2m8q9.apps.googleusercontent.com",
+          "client_id": "712568372383-qurfvoopmoamb68sbas65fbnqlu7h6r8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "jama.movieapp.sms_authfirebase",
-            "certificate_hash": "26cfcc311de037629256d804c1419df075afdb46"
+            "certificate_hash": "906ff2323dc3b941cedd69b8fae9a5ba1e13b7ca"
           }
         },
         {
@@ -28,7 +28,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDvD3cHOEaqc0rjNHkePJ6HffMuaK3gDTU"
+          "current_key": "AIzaSyAVorOa2xTZrZzQnqErDzrywL3bhRPj1tc"
         }
       ],
       "services": {
