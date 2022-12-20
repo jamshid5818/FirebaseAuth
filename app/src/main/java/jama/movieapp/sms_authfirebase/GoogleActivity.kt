@@ -48,6 +48,7 @@ class GoogleActivity : AppCompatActivity() {
                 Toast.makeText(this, account.email.toString(), Toast.LENGTH_SHORT).show()
                 googleSignOut()
             }catch (e:ApiException){
+                e.message?.let { Log.d("XATOLIK", it) }
                 Toast.makeText(this, e.message, Toast.LENGTH_SHORT).show()
             }
         }
